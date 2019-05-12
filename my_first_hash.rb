@@ -1,6 +1,5 @@
 def my_hash
   babies = {"Billie" => "puppy", "Foxy" => "dragon"}
-
 end
 
 
